@@ -1,5 +1,5 @@
 # challenge2-data-science
-# 📊 Análisis de Evasión de Clientes (Churn)
+#  Análisis de Evasión de Clientes (Churn)
 
 ## 🔹 Introducción
 Este proyecto tiene como objetivo analizar el fenómeno de **evasión de clientes (Churn)** en una empresa de telecomunicaciones.  
